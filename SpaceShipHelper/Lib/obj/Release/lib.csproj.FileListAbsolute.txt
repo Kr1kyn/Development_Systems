@@ -1,0 +1,8 @@
+C:\Users\IMMORTAL\source\repos\SpaceShipHelper\Lib\bin\Release\lib.dll
+C:\Users\IMMORTAL\source\repos\SpaceShipHelper\Lib\bin\Release\lib.pdb
+C:\Users\IMMORTAL\source\repos\SpaceShipHelper\Lib\obj\Release\ds.test.impl.Properties.Resources.resources
+C:\Users\IMMORTAL\source\repos\SpaceShipHelper\Lib\obj\Release\lib.csproj.GenerateResource.cache
+C:\Users\IMMORTAL\source\repos\SpaceShipHelper\Lib\obj\Release\lib.csproj.CoreCompileInputs.cache
+C:\Users\IMMORTAL\source\repos\SpaceShipHelper\Lib\obj\Release\lib.dll
+C:\Users\IMMORTAL\source\repos\SpaceShipHelper\Lib\obj\Release\lib.pdb
+C:\Users\IMMORTAL\source\repos\SpaceShipHelper\Lib\obj\Release\lib.csprojAssemblyReference.cache
